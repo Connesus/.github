@@ -1,5 +1,4 @@
-## Hi 👋 This is github of connecus-team 
-## Team made by Vietnam Blockchain Innovation Lab - VBI
+## Hi Everyone 👋 This is github of connecus-team 
 ### We are researching and developing better products,platform or services with Blockchain technology
 If you have any question, please contact us. Have a nice day everyone !
 <p align='center'> Contact us! </p>
